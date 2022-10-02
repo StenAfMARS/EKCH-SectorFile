@@ -1,0 +1,96 @@
+////////////////////////////////////////////////////////////////////////////////////////////
+// EKDK Sector History File
+// AIRAC: 2008* compatible
+//
+// Notes:
+// At this state not everything is implemented and the Sector is still considered WIP
+// The Sector is AIRAC compatible but be advised that there can be Errors
+// Please get in touch with XN Divison by Discord or Forums if you have
+// Questions, found Errors or any other related Information regarding that Sectorfile.
+//
+// 
+// "This software is published under the GNU GPL Licence a copy of which must always accompany this file"
+// "This Sectorfile must always acompanied by the History file"
+// "copyright IVAO - INTERNATIONAL VIRTUAL AVIATION ORGANISATION"
+//
+//
+////////////////////////////////////////////////////////////////////////////////////////////
+
+[AIRAC UPDATE]
+- Added Location Indicator for Esbjerg HEMS (EKEH). 
+
+EKYT
+- New Aircraft stands 11 and 12 added
+
+EKBI
+- Waypoint BI370 renamed to ODFEX on SID’s GOKIM, RIDSI, ALS and MIKRO.
+- Waypoints BI368 and BI369 withdrawn on SID’s.
+- New waypoints BI371, BI372 and BI373 on SID’s.
+- SID serial numbers updated.
+
+///// JULY /////
+[] EKRK - Roskild
+- Overhauled GEO
+- Added Fillcolor
+- Overhauled Taxilines
+- Overhauled Apron Outlines
+
+[] EKBI - Billund
+- Overhauled Taxilines
+- Overhauled Apron Outlines
+- Added Buildings
+- Added Helipad (Stand H1) Area
+
+///// 18.07.2020 ////
+[] Overall
+- VOR / NDB / FIX / AP / RWY / LAWL / HAWL / GATES Airac Updated thorugh IAB
+- Redone Filestructure to support future Updates
+- Created Colorscheme "Denmark" on COOPANS based colors (WIP)
+- Made Predefined ATC Frequencies and Positions available
+- [ADDED] Defined Colors
+
+[] NAVAIDS
+- [ADDED] Various Outside FIR Fixes to have proper Airway drawn
+
+[] EKCH - Copenhagen/Kastrup
+- [FIXED] ODN1C was twice in SIDs
+- [CHECK] for AIRAC 2008
+- Overhauled GEO
+- [ADDED] Fillcolor
+-- Updated Taxilines in that process
+- [ADDED] ILS Approaches
+- [ADDED] GA Procedures
+- [ADDED] VFR Points and Route
+[SIDs]
+- VERDAR3A changed WP NEVPO to NOVPO (was error)
+- VERDAR2A changed WP NEVPO to NOVPO (was error)
+
+[] EKRK - Copenhagen/Roskild
+- [ADDED] VFR Points
+
+[] EKBI - Billund
+- [CHECK] for AIRAC 2008
+- [ADDED] ILS Approaches
+- Changed RNP Approaches Slightly to fit overall scheme
+- Overhauled GEO
+- [ADDED] Fillcolor
+- Removed Label for H1 Helipad temporarily till it's added in geo file
+- [ADDED] Taxiway Labels
+
+[Future Updates]
+- Helipad South East of Runway
+- Redraw of Centerlines
+- Area around Stands 60-69 and 90-94 fill be slightly adjusted to match Reallife and Chart Data better
+- Some Buildings will be Shown in Future for better Ambience
+- MVR for EKCH and EKBI
+
+///// 09.04.2021 ////
+[] Overall
+- Airspaces updated
+
+///// 30.12.2021 ////
+[] Overall
+- General file structure changed
+- airways updated (hidden fixes in adjacent FIRs)
+- MVA added for controlled airports
+- all ground layouts updated

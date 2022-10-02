@@ -1,0 +1,1 @@
+{ "region" : "default", "structure" : "This is [STATION_NAME] arrival and departure information [ATIS_LETTER], at time, [ATIS_TIME]. [ARR] expected for arrivals. Runway [DEP] in use for departures.. Transition level [TL].. [METAR].. [REMARK].. Advice on initial contact you have information [ATIS_LETTER].. " }
