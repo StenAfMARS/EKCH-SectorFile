@@ -1,3 +1,9 @@
+// WAYPOINT_NAME;LATITUDE;LONGITUDE;0;0;//Additional information
+// ATS Route or Other Route; FRA relevance; Remarks / Usage
+// E= Horizontal Entry Point, X= Horizontal Exit Point, A= Arrival Connecting Point
+// D= Departure Connecting Point, I = Intermediate Point
+
+
 ABEGI;N055.50.31.000;E012.47.20.000;0;0;
 ABEMO;N055.27.31.030;E009.59.14.010;1;0;
 ABINO;N055.58.06.000;E009.59.40.000;0;0;
